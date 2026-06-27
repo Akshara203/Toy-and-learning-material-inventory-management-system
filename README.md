@@ -1,0 +1,2 @@
+# Toy-and-learning-material-inventory-management-system
+Toy and Learning Material Inventory System is a web-based application designed to manage toys and educational resources efficiently. It allows users to add, update, delete, and track inventory items with categories and quantity details. The system provides a simple dashboard, reduces manual work, improves accuracy, and organizes learning materials.
